@@ -1,0 +1,8 @@
+tinkoff
+central
+python
+ml
+roma
+home
+dog
+cat
